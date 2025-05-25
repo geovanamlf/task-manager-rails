@@ -1,24 +1,55 @@
-# README
+# Task Manager - Ruby on Rails + PostgreSQL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the web version of my task manager, built using **Ruby on Rails** and **PostgreSQL**.
 
-Things you may want to cover:
+> ✅ **Important note:** This is my **first project using Ruby on Rails** and my **first experience with PostgreSQL connected to a web application.**  
+This project was originally created as a terminal-based app and evolved into this web version.
 
-* Ruby version
+---
 
-* System dependencies
+## 💡 About the Project
 
-* Configuration
+A simple task manager where you can:
 
-* Database creation
+- Create tasks
+- View tasks
+- Mark tasks as completed
+- Edit tasks
+- Delete tasks
 
-* Database initialization
+All tasks are stored in a PostgreSQL database.
 
-* How to run the test suite
+---
 
-* Services (job queues, cache servers, search engines, etc.)
+## 🚀 Technologies
 
-* Deployment instructions
+- Ruby on Rails
+- PostgreSQL
+- HTML, CSS (Rails default views)
+- Git + GitHub
 
-* ...
+---
+---
+
+## 🔗 Related Repositories
+
+- **Terminal Version:** [task-manager](https://github.com/geovanamlf/task-manager)
+
+---
+
+## 🎯 Future Plans
+
+- Improve UI and frontend layout
+- Create an API version
+- Add user authentication
+- Add task categories, deadlines, and priorities
+- Deploy online
+
+---
+
+## ✨ Author
+
+Made with 💙 by **Geovana Lemos**  
+[GitHub](https://github.com/geovanamlf)
+
+
