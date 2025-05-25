@@ -45,11 +45,5 @@ All tasks are stored in a PostgreSQL database.
 - Add task categories, deadlines, and priorities
 - Deploy online
 
----
-
-## ✨ Author
-
-Made with 💙 by **Geovana Lemos**  
-[GitHub](https://github.com/geovanamlf)
 
 
