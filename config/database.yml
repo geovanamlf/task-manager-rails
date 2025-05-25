@@ -1,0 +1,19 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  username: geovana-lemos
+  password: 91480908
+  host: localhost
+  pool: 5
+
+development:
+  <<: *default
+  database: taskmanager
+
+test:
+  <<: *default
+  database: taskmanager_test
+
+production:
+  <<: *default
+  database: taskmanager_production
